@@ -1,15 +1,22 @@
 [
     {
-        "image":"py"
+        "image":"mooc"
     },
     {
         "image":"aws"
     },
     {
-        "image":"mooc"
+        "image":"col"
     },
     {
-        "image":"col"
+        "image":"qw"
+    },
+    {
+        "image":"py"
+    },
+    {
+        "image":"ce"
     }
+    
     
 ]
