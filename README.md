@@ -1,2 +1,2 @@
 # Portfolio
-ojjuasgupta.netlify.app
+https://ojjuasgupta.netlify.app/
