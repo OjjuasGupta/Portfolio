@@ -6,7 +6,7 @@
     "category": "mern",
     "links": {
       "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      
     }
   },
   {
@@ -16,7 +16,7 @@
     "category": "mern",
     "links": {
       "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      
     }
   },
   {
@@ -26,7 +26,7 @@
     "category": "mern",
     "links": {
       "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      
     }
   },
   {
@@ -36,7 +36,7 @@
     "category": "mern",
     "links": {
       "view": "https://crypto-tracker-react-project.netlify.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/crypto-tracker"
+ 
     }
   },
   {
@@ -46,7 +46,7 @@
     "category": "mern",
     "links": {
       "view": "https://hulu-clone-jigar-sable.vercel.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
+   
     }
   },
   {
@@ -56,7 +56,7 @@
     "category": "basicweb",
     "links": {
       "view": "https://composey.netlify.app/",
-      "code": "https://github.com/jigar-sable/LGMVIP-WebDev"
+
     }
   }
 ]
